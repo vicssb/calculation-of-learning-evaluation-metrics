@@ -13,3 +13,21 @@ Para a leitura dos valores de VP, VN, FP e FN, será necessário escolher uma ma
  
 
 Tabela 1: Visão geral das métricas usadas para avaliar métodos de classificação. VP: verdadeiros positivos; FN: falsos negativos; FP: falsos positivos; VN: verdadeiros negativos; P: precisão; S: sensibilidade; N: total de elementos
+
+* gere o codigo para calcular Specificity
+
+* gere o codigo para calcular sensitivity
+
+* gere o codigo para calcular Acurácia
+
+* gere o codigo para calcular Precision
+
+* gere o codigo para calcular F-score
+
+* coloque o texto em uma celula de texto
+
+
+
+
+* gere um grafico de colunas com essas medidas
+

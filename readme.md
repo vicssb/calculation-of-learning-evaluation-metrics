@@ -70,6 +70,34 @@ Você também pode executar o projeto usando o Google Colab. Abra o seguinte not
 
 Após a execução, a performance do modelo será avaliada e os resultados serão exibidos. Você pode visualizar o processo de treinamento e os resultados usando o TensorBoard.
 
+<img src= ./img/confusion-matrix.png />
+<img src= ./img/TensorBoard.png /> 
+<img src= ./img/ModelPerformanceMetrics.png /> 
+
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
+
+## Versioning
+
+1.0.0
+
+## Author
+
+**Victor Sérgio Silva Barros**:
+
+<p align="left">
+  <a href="mailto:vicssb@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
+
+  <a href="https://wa.me/+5512981328278" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
+
+</p>
+
+<p>Please follow GitHub and join us!
+Thanks for visiting and happy coding!</p>
