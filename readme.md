@@ -1,7 +1,7 @@
-<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 <p>
   <div align="right"> 
-<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brazil" width="30"/> </a>
 </div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
 </p> 
@@ -9,28 +9,27 @@
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
 
-# Cálculo de Métricas de Avaliação de Aprendizado
+# Calculation of Learning Evaluation Metrics
 
-Este projeto é baseado no [laboratório da DIO](https://web.dio.me/lab/calculo-de-metricas-de-avaliacao-de-aprendizado/learning/8c981faa-c9db-4a02-bad0-87035e170684).
+This project is based on the [DIO lab](https://web.dio.me/lab/calculo-de-metricas-de-avaliacao-de-aprendizado/learning/8c981faa-c9db-4a02-bad0-87035e170684).
 
+## Overview
 
-## Visão Geral
+The calculation of learning evaluation metrics is essential to measure the performance of machine learning models. This project demonstrates how to calculate and interpret various evaluation metrics.
 
-O cálculo de métricas de avaliação de aprendizado é essencial para medir a performance de modelos de machine learning. Este projeto demonstra como calcular e interpretar diversas métricas de avaliação.
+## Challenge Description
 
-## Descrição do Desafio
+Calculation of Learning Evaluation Metrics
 
-Cálculo de Métricas de Avaliação de Aprendizado
+In this project, we will calculate the main metrics for evaluating data classification models, such as accuracy, sensitivity (recall), specificity, precision, and F-score. To implement these functions, you must use the methods and their corresponding formulas (Table 1).
 
-Neste projeto, vamos calcular as principais métricas para avaliação de modelos de classificação de dados, como acurácia, sensibilidade (recall), especificidade, precisão e F-score. Para que seja possível implementar estas funções, você deve utilizar os métodos e suas fórmulas correspondentes (Tabela 1).
+To read the values of TP, TN, FP, and FN, it will be necessary to choose a confusion matrix as the basis for the calculations. This matrix can be chosen arbitrarily, as our goal is to understand how each metric works.
 
-Para a leitura dos valores de VP, VN, FP e FN, será necessário escolher uma matriz de confusão para a base dos cálculos. Essa matriz você pode escolher de forma arbitrária, pois nosso objetivo é entender como funciona cada métrica.
+Table 1: Overview of the metrics used to evaluate classification methods. TP: true positives; FN: false negatives; FP: false positives; TN: true negatives; P: precision; S: sensitivity; N: total elements.
 
-<img src="./img/Tabela 1.png" alt="Tabela 1" width="600"/>
+<img src="./img/Tabela 1.png" alt="Table 1" width="600"/>
 
-Tabela 1: Visão geral das métricas usadas para avaliar métodos de classificação. VP: verdadeiros positivos; FN: falsos negativos; FP: falsos positivos; VN: verdadeiros negativos; P: precisão; S: sensibilidade; N: total de elementos.
-
-## Requisitos
+## Requirements
 
 - Python 3.x
 - Scikit-learn
@@ -38,46 +37,44 @@ Tabela 1: Visão geral das métricas usadas para avaliar métodos de classifica�
 - Pandas
 - Matplotlib
 
-## Instalação
+## Installation
 
-1. Clone o repositório:
+1. Clone the repository:
     ```sh
     git clone https://github.com/your-repo/calculo-metricas-avaliacao.git
     ```
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
     ```sh
     cd calculo-metricas-avaliacao
     ```
-3. Instale os pacotes necessários:
+3. Install the required packages:
     ```sh
     pip install -r requirements.txt
     ```
 
-## Uso
+## Usage
 
-1. Prepare seu conjunto de dados e coloque-o no diretório `data`.
-2. Execute o script de cálculo de métricas:
+1. Prepare your dataset and place it in the `data` directory.
+2. Run the metrics calculation script:
     ```sh
     python calcular_metricas.py
     ```
 
 ## Colab
 
-Você também pode executar o projeto usando o Google Colab. Abra o seguinte notebook no Colab:
-[Cálculo de Métricas Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb)
+You can also run the project using Google Colab. Open the following notebook in Colab:
+[Metrics Calculation Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb)
 
-## Resultados
+## Results
 
-Após a execução, a performance do modelo será avaliada e os resultados serão exibidos. Você pode visualizar o processo de treinamento e os resultados usando o TensorBoard.
+After execution, the model's performance will be evaluated, and the results will be displayed. You can visualize the training process and results using TensorBoard.
 
 <img src= ./img/confusion-matrix.png />
 <img src= ./img/TensorBoard.png /> 
 <img src= ./img/ModelPerformanceMetrics.png /> 
+## License
 
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
+This project is licensed under the MIT license.
 
 ## Versioning
 
