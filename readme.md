@@ -63,7 +63,7 @@ Table 1: Overview of the metrics used to evaluate classification methods. TP: tr
 ## Colab
 
 You can also run the project using Google Colab. Open the following notebook in Colab:
-[Metrics Calculation Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb)
+[Metrics Calculation Notebook](notebooks/calculation_of_learning_evaluation_metrics.ipynb)
 
 ## Results
 

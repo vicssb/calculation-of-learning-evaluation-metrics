@@ -64,7 +64,7 @@ Tabela 1: Visão geral das métricas usadas para avaliar métodos de classifica�
 ## Colab
 
 Você também pode executar o projeto usando o Google Colab. Abra o seguinte notebook no Colab:
-[Cálculo de Métricas Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb)
+[Cálculo de Métricas Notebook](https://github.com/vicssb/calculation-of-learning-evaluation-metrics/blob/main/notebooks/c%C3%A1lculo-de-m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-de-aprendizagem.ipynb)
 
 ## Resultados
 
